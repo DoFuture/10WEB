@@ -145,7 +145,7 @@
         </div>
 
         <div class="am-span">
-          <a class="am-dropdown-toggle"  href="javascript:;">
+          <a class="am-dropdown-toggle"  href="/application/views/project/project.php">
             <span class="dis">项目</span>
           </a>
         </div>
